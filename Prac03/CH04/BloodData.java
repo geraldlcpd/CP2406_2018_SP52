@@ -7,6 +7,7 @@ public class BloodData
 {
     private String bloodType;
     private String rhFactor;
+
     public BloodData()
     {
         bloodType = "O";

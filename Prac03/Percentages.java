@@ -16,7 +16,7 @@ public class Percentages
     {
         final double NUM1 = 2.0;
         final double NUM2 = 5.0;
-        System.out.println("=== VARIABLE VALUE ASSIGNED ===");
+        System.out.println("=== DEFAULT VARIABLE VALUE ASSIGNED ===");
         percentCount(NUM1, NUM2);
         percentCountRev(NUM1, NUM2);
 
