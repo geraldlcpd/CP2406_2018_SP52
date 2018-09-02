@@ -1,3 +1,4 @@
+package CH05.CodeInFigures;
 import java.util.Scanner;
 public class Payroll
 {
