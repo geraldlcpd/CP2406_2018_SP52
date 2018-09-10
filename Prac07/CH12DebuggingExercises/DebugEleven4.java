@@ -1,4 +1,4 @@
-package DebuggingExercises;// Creates and displays an array of boats -
+package CH12DebuggingExercises;// Creates and displays an array of boats -
 // some are rowboats; some are ocean liners
 import javax.swing.*;
 public class DebugEleven4

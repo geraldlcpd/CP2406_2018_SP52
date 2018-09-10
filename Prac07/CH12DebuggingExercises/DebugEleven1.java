@@ -1,4 +1,4 @@
-package DebuggingExercises;
+package CH12DebuggingExercises;
 
 // Instantiates Rowboat
 // Rowboat is child of Boat

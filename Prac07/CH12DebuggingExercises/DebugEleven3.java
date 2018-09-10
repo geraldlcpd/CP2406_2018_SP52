@@ -1,4 +1,4 @@
-package DebuggingExercises;
+package CH12DebuggingExercises;
 
 // Two boats should be equal
 // if they hold the same number of passengers

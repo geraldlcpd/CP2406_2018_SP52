@@ -1,4 +1,4 @@
-package DebuggingExercises;
+package CH12DebuggingExercises;
 
 public class DebugOceanLiner extends DebugBoat
 {

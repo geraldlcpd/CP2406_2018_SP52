@@ -1,4 +1,4 @@
-package DebuggingExercises;
+package CH12DebuggingExercises;
 
 // An array for different boat types
 public class DebugEleven2

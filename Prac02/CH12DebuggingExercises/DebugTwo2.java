@@ -1,4 +1,4 @@
-package DebuggingExercises;
+package CH12DebuggingExercises;
 
 public class DebugTwo2
 //  This application performs arithmetic with two integers
